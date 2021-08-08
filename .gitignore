@@ -1,0 +1,6 @@
+.env
+book-library.zip
+.idea/
+.pytest_cache/
+__pycache__/
+venv/
